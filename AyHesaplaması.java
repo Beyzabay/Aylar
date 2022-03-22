@@ -1,7 +1,3 @@
-// Kullanıcıdan yılın kaçıncı ayı olduğunu alıp, ay ismini yazan bir program yazınız. 
-//Çözümünüzde switch yapısı kullanınız. 
-//Örneğin; yılın kaçıncı ayı olduğu konusunda 2 girildiğinde, "Şubat" çıktısı elde edilmelidir.
-
 package ayhesaplaması;
 import java.util.Scanner;
 public class AyHesaplaması{
